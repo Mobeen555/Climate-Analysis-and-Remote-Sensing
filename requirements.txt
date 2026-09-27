@@ -1,0 +1,15 @@
+# Tested with Python 3.12. Install with: python -m pip install -r requirements.txt
+streamlit==1.64.0
+requests==2.34.2
+numpy==2.3.5
+pandas==2.2.3
+plotly==7.1.0
+folium==0.20.0
+streamlit-folium==0.27.4
+rasterio==1.5.1
+shapely==2.1.2
+pyproj==3.8.0
+matplotlib==3.10.8
+Pillow==12.3.0
+reportlab==4.4.9
+openpyxl==3.1.5
